@@ -27,6 +27,7 @@ h1{
     width:270px;
     border-radius: 15px;
     margin-left:-145px;
+  
 }
 span{
     margin-left:23%;
@@ -101,15 +102,7 @@ button{
 #ssss{
     margin-top:5%;
 }
-.red{
-    display: flex;
-    justify-content: space-between;
-background-color: red;
-color:white;
-position:sticky;
-margin-top:-1%;
-top : 0px;
-}
+
 .grif{
     background-color: rgb(15, 15, 15);
     color:red;
@@ -129,4 +122,45 @@ top : 0px;
     background-color: black;
     color:rgb(19, 131, 9);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.red{
+    display: flex;
+    justify-content: space-between;
+background-color: red;
+color:white;
+position:sticky;
+margin-top:-1%;
+top : 0px;
+}
+.green{
+    display: flex;
+    justify-content: space-between;
+background-color: rgb(114, 207, 114);
+color:white;
+position:sticky;
+margin-top:-1%;
+top : 0px;
+}
+.blue{
+    display: flex;
+    justify-content: space-between;
+background-color: blue;
+color:white;
+position:sticky;
+margin-top:-1%;
+top : 0px;
+}
+.yellow{
+    display: flex;
+    justify-content: space-between;
+background-color: rgba(12, 12, 131, 0.836);
+color:white;
+position:sticky;
+margin-top:-1%;
+top : 0px;
+}
+.letre{
+    margin-left:20%;
+    margin-right:20%;
+    
 }
