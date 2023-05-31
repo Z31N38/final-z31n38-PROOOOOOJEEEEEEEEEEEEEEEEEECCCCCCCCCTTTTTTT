@@ -1,0 +1,132 @@
+body{
+    background-color:rgb(100, 92, 92);
+    margin-left:15%;
+    margin-right:15%;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+background-color: black;
+color:white;
+position:sticky;
+margin-top:-1%;
+top : 0px;
+}
+h1{
+   margin-left:14%;
+   font-family: lucida ;
+}
+.griff{
+    color:gold;
+    margin-left:35%;
+    margin-right:20%;
+}
+.gryffin{
+    background-color: rgba(255, 0, 0, 0.568);
+    height:370px;
+    width:270px;
+    border-radius: 15px;
+    margin-left:-145px;
+}
+span{
+    margin-left:23%;
+    margin-right:25%;
+}
+
+.houses{
+    display:flex;
+}
+.raveny{
+    background-color: rgba(27, 27, 214, 0.822);
+    height:370px;
+    width:270px;
+    border-radius: 15px;
+    margin-right:14px;
+    margin-left:4%;
+}
+.rvaeen{
+    margin-left:7%;
+}
+.imga{
+    margin-top:-9%;
+}
+.ravshi{
+    margin-top:-5%;
+    margin-left:30%;
+    color:rgb(95, 117, 189);
+}
+.hufflepuffi{
+    background-color: rgb(207, 207, 17);
+    height:370px;
+    width:270px;
+    border-radius: 15px;
+    margin-right:14px;
+    margin-left:4%;
+}
+.huuuf{
+    margin-left:4%;
+    margin-top:-6%;
+}
+.slytherin{
+    background-color: rgb(53, 163, 53);
+    height:370px;
+    width:270px;
+    border-radius: 15px;
+    margin-left:4%;
+    margin-right:-15%;
+}
+button{
+    margin-top:3%;
+    margin-left:70%;
+    border-radius: 16%;
+    align-items: flex-end;
+}
+
+.valeurs{
+    margin-left:6%;
+    margin-top:-13px;
+    
+    
+}
+.theben{
+    margin-left:3%;
+}
+.yapipo{
+    margin-left:50px;
+    margin-top:-19px;
+}
+#grrr{
+    margin-top:6%;
+}
+#ssss{
+    margin-top:5%;
+}
+.red{
+    display: flex;
+    justify-content: space-between;
+background-color: red;
+color:white;
+position:sticky;
+margin-top:-1%;
+top : 0px;
+}
+.grif{
+    background-color: rgb(15, 15, 15);
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rav{
+    background-color: black;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.huf{
+    background-color: black;
+    color:yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sly{
+    background-color: black;
+    color:rgb(19, 131, 9);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
