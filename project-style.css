@@ -159,8 +159,65 @@ position:sticky;
 margin-top:-1%;
 top : 0px;
 }
+a{
+    margin-top:2%;
+    color:white;
+    text-decoration:wavy;
+}
 .letre{
     margin-left:20%;
     margin-right:20%;
     
+}
+.divious{
+    background-color: rgba(218, 77, 77, 0.473);
+    margin-top:6%;
+    color:black;
+    border-radius: 15px;
+    font-family: cursive 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: x-large;
+    font-stretch: expanded;
+    font-display: space-around;
+    height:359px;
+    width:880px;
+}
+.divendous{
+    background-color: rgb(97, 98, 150);
+    color:rgb(82, 25, 133);
+    margin-top:6%;
+    border-radius: 15px;
+    font-family: cursive 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: x-large;
+    font-stretch: expanded;
+    font-display: space-around;
+    height:279px;
+    width:880px;
+}
+.diviletchy{
+    background-color:rgb(0, 0, 0);
+    color:goldenrod;
+    margin-top:6%;
+    border-radius: 15px;
+    font-family: cursive 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: x-large;
+    font-stretch: expanded;
+    font-display: space-around;
+    height:339px;
+    width:880px;
+}
+.divcaragoy{
+    background-color: rgba(3, 46, 12, 0.473);
+    color:black;
+    margin-top:6%;
+    border-radius: 15px;
+    font-family: cursive 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: x-large;
+    font-stretch: expanded;
+    font-display: space-around;
+    height:649px;
+    width:880px;
 }
